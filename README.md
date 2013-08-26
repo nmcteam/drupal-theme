@@ -1,4 +1,3 @@
-drupal-theme
-============
+# Drupal Theme
 
-Our boilerplate Drupal theme
+This is a boilerplate custom Drupal theme.
