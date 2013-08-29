@@ -3,6 +3,9 @@
 This is [New Media Campaigns][nmc]' boilerplate Drupal 7 theme. It contains the bare necessities
 to install and activate it in your Drupal website.
 
+There is little else. We prefer to build our Drupal themes from the ground up rather than
+extend an existing Drupal parent theme.
+
 ## Installation
 
 ### Download theme
