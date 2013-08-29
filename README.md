@@ -7,8 +7,8 @@ to install and activate it in your Drupal website.
 
 ### Download theme
 
-Download or clone this repository into your Drupal site directory, usually located
-in your project's `public/sites/` directory. Rename the theme folder using the same
+Download or clone this repository into your Drupal themes directory, usually located
+at `public/sites/all/themes/`. Rename the theme folder using the same
 short name used for the `theme.info` file described next.
 
 ### Update `theme.info`
