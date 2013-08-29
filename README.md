@@ -31,8 +31,8 @@ and named "screenshot.png".
 
 ## Author
 
-[Josh Lockhart](https://github.com/codeguy)
-[New Media Campaigns][nmc]
+* [Josh Lockhart](https://github.com/codeguy)
+* [New Media Campaigns][nmc]
 
 ## License
 
